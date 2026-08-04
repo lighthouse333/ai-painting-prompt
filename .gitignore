@@ -1,0 +1,10 @@
+# 生成的docx文件
+*.docx
+
+# Python
+__pycache__/
+*.pyc
+
+# 系统文件
+.DS_Store
+Thumbs.db
